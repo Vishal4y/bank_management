@@ -1,1 +1,1 @@
-# online-banking-system
+# Bank-management-system
